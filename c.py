@@ -1,2 +1,2 @@
-nachricht = "Hallo aus dem main-Branch"
+nachricht = "Hallo aus dem main- und dem feature-Branch"
 print(nachricht)
