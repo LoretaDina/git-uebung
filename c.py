@@ -1,2 +1,2 @@
-nachricht = "Hallo aus c.py"
+nachricht = "Hallo aus dem main-Branch"
 print(nachricht)
